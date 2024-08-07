@@ -1,11 +1,8 @@
-<H3> Name </H3>
-<H3>Register No.</H3>
-<H3> Experiment 1</H3>
-<H3>DATE:</H3>
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
-## Aim :
-    To create a bayesian Network for the given dataset in Python
-## Algorithm:
+# EX-01 Implementation of Bayesian Networks
+
+### Aim :
+To create a bayesian Network for the given dataset in Python. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE: 00.00.2024**
+### Algorithm:
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
 Step 2:Set pandas options to display more columns<br/>
 Step 3:Read in weather data from a CSV file using pandas<br/>
@@ -21,10 +18,10 @@ Step 12:Set options for the graph appearance<br/>
 Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
-## Program:
+### Program:
 ''' Type your Code here '''
-## Output:
+### Output:
 ''' Show the output in the form screenshorts '''
-## Result:
-   Thus a Bayesian Network is generated using Python
+### Result:
+   Thus a Bayesian Network is generated using Python.
 
